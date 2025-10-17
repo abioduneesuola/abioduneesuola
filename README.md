@@ -1,4 +1,4 @@
-- 👋 Hi, I am Abiodun Eesuola, a Data Scientist + ML/AI Researcher.
+- 👋 Hi, I am Abiodun Eesuola, an AI Engineer & Data Scientist.
 - 👀 I’m interested in building and scaling projects from the ground up.
 - 🌱 I’m currently undertaking projects in the exciting world of Deep Learning and its applications.
 - 💞️ I’m looking to collaborate on projects related to NLP and/or CV.
