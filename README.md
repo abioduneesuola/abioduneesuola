@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects related to NLP and/or CV.
 - 📫 Best way to reach me is through my LinkedIn profile.
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I'm a lifelong Arsenal supporter (hope the next season turns out great for us!)
+- ⚡ Fun fact: I'm a lifelong Arsenal supporter (hope we win the quadruple this season!)
 
 <!---
 abioduneesuola/abioduneesuola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
